@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dastagir Ahmed</h1>
 
 # 💫 About Me:
- - 🔭 I’m currently working on **Enhancing my frontend skills and backend**<br><br>- 🌱 I’m currently learning **Mern**<br><br>- 👯 I’m looking to collaborate on **Open source projects**<br><br>- 💬 Ask me about **react,Node.js,Framer-motion**<br><br>- 📫 How to reach me **dastagir2k@gmail.com**<br><br>- ⚡ Fun fact **I Think I am Funny**
+ - 🔭 I’m currently working on **Enhancing my frontend skills and backend**<br><br>- 🌱 I’m currently learning **Mern**<br><br>- 👯 I’m looking to collaborate on **Open source projects**<br><br>- 💬 Ask me about **react,Node.js,MongoDb**<br><br>- 📫 How to reach me **dastagir2k@gmail.com**<br><br>- ⚡ Fun fact **I Think I am Funny**
 
 
 ## 🌐 Socials:
